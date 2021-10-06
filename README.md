@@ -1,0 +1,1 @@
+# kibaholberton-smiling-school-javascript
